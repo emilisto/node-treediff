@@ -1,0 +1,25 @@
+{
+  "name": "treediff",
+  "version": "0.0.0",
+  "description": "Calculate the difference between two Ordered Labeled Trees (OLT's)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --ui exports --reporter spec tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emilisto/node-treediff.git"
+  },
+  "keywords": [
+    "ordered",
+    "labeled",
+    "tree",
+    "difference",
+    "olt"
+  ],
+  "author": "Emil Stenqvist <emsten@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/emilisto/node-treediff/issues"
+  }
+}
